@@ -58,14 +58,40 @@ AI-based-emotion-detection-music-recommendation/
 ---
 
 
----
+📸 Screenshots
+🔹 Application Interface
 ![Application UI](screenshots/ui.png)
+
+🔹 Emotion Detection & Music Recommendation Result
+
 ![Result Output](screenshots/result.png)
+
+
+
+⚠️ Limitations
+
+Uses a small dataset
+
+No real-time learning from user feedback
+
+Cold start problem exists
+
+These limitations are expected in beginner ML projects.
+
+🔮 Future Improvements
+
+Larger and real-world datasets
+
+Collaborative or hybrid recommendation system
+
+User feedback loop
+
+Web deployment
 
 
 ## ⚙️ How to Run the Project
 ```bash
 pip install -r requirements.txt
-streamlit run app.py.
+streamlit run app.py
 
 
