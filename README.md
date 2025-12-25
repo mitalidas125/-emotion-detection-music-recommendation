@@ -59,15 +59,13 @@ AI-based-emotion-detection-music-recommendation/
 
 
 ---
+![Application UI](screenshots/ui.png)
+![Result Output](screenshots/result.png)
+
 
 ## ⚙️ How to Run the Project
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
-## 📸 Screenshots
+streamlit run app.py.
 
-### Application Interface
-![UI Screenshot](screenshots/ui.png)
 
-### Emotion Detection & Music Recommendation
-![Result Screenshot](screenshots/result.png)
