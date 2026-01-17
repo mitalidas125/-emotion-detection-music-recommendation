@@ -36,23 +36,9 @@ This is an **educational / internship-level project**, not a production AI syste
 ---
 
 ## 📂 Project Structure
-AI-based-emotion-detection-music-recommendation/
-│
-├── app.py
-├── README.md
-├── requirements.txt
-│
-├── data/
-│ └── typing_data.csv
-│
-├── model/
-│ └── emotion_model.pkl
-│
-├── screenshots/
-│ ├── ui.png
-│ └── result.png
-│
-└── .github/
+AI-based-emotion-detection-music-recommendation/ │ ├── app.py ├── README.md ├── requirements.txt │ ├── data/ │ └── typing_data.csv │ ├── model/ │ └── emotion_model.pkl │ ├── screenshots/ │ ├── ui.png │ └── result.png │ └── .github/
+
+
 
 
 
